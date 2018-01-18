@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ MazeCreature\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ moveForward()
+comment2.params=
+comment2.target=boolean\ facingEdge()
+comment3.params=
+comment3.target=boolean\ facingWall()
+comment4.params=
+comment4.target=boolean\ canMove()
+numComments=5
